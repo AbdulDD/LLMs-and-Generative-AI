@@ -3,6 +3,7 @@
 # Generative AI Project Lifecycle
 
 A Generative AI project can be broadly divided into three major stages:
+
 **1. Scope & Model Selection**
 - Clearly define the business problem or use case before starting development.
 - Identify success metrics and constraints (cost, latency, accuracy, compliance).
