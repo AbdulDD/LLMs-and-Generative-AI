@@ -8,9 +8,9 @@
 - [ ] Three LLMs comparison
 - [ ] Instruction fine-tuning **(IFT)**: Single-task
 - [ ] Instruction fine-tuning **(IFT)**: Multi-task
-- [ ] Parameter-efficient fine-tuning
+- [ ] Parameter-efficient fine-tuning **(PEFT)**
 - [ ] Reinforcement learning with human feedback **(RLHF)**
-- [ ] LLM Power Applications
+- [ ] LLM Powered Applications
 
 
 ### Generative AI Project Lifecycle
