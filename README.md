@@ -6,7 +6,8 @@
 - [ ] LLM In-context learning **(ICL)**
 - [ ] LLM Quantization
 - [ ] Three LLMs comparison
-- [ ] LLM fine-tuning with Instructions
+- [ ] Instruction fine-tuning **(IFT)**: Single-task
+- [ ] Instruction fine-tuning **(IFT)**: Multi-task
 - [ ] Parameter-efficient fine-tuning
 - [ ] Reinforcement learning with human feedback **(RLHF)**
 - [ ] LLM Power Applications
