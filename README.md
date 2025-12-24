@@ -2,19 +2,13 @@
 
 ## To Do
 
-[ ] LLMs Configuration & In-context learning **(ICL)**
-
--[ ] LLMs Quantization
-
--[ ] Three LLMs comparison
-
--[ ] LLM Fine Tuning with Instructions
-
--[ ] Parameter-efficient fine-tuning
-
--[ ] Reinforcement learning with human feedback **(RLHF)**
-
--[ ] LLM Power Applications
+- [ ] LLMs Configuration & In-context learning **(ICL)**
+- [ ] LLMs Quantization
+- [ ] Three LLMs comparison
+- [ ] LLM Fine Tuning with Instructions
+- [ ] Parameter-efficient fine-tuning
+- [ ] Reinforcement learning with human feedback **(RLHF)**
+- [ ] LLM Power Applications
 
 
 ### Generative AI Project Lifecycle
