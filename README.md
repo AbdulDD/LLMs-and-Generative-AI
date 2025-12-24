@@ -1,6 +1,16 @@
 # LLMs and Generative AI
 
-# Generative AI Project Lifecycle
+## To Do
+-[ ] LLMs Configuration & In-context learning **(ICL)**
+-[ ] LLMs Quantization
+-[ ] Three LLMs comparison
+-[ ] LLM Fine Tuning with Instructions
+-[ ] Parameter-efficient fine-tuning
+-[ ] Reinforcement learning with human feedback **(RLHF)** 
+-[ ] LLM Power Applications
+
+
+### Generative AI Project Lifecycle
 
 A Generative AI project can be broadly divided into three major stages:
 
