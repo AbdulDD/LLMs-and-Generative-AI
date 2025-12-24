@@ -2,10 +2,11 @@
 
 ## To Do
 
-- [ ] LLMs Configuration & In-context learning **(ICL)**
-- [ ] LLMs Quantization
+- [ ] LLM Configuration
+- [ ] LLM In-context learning **(ICL)**
+- [ ] LLM Quantization
 - [ ] Three LLMs comparison
-- [ ] LLM Fine Tuning with Instructions
+- [ ] LLM fine-tuning with Instructions
 - [ ] Parameter-efficient fine-tuning
 - [ ] Reinforcement learning with human feedback **(RLHF)**
 - [ ] LLM Power Applications
