@@ -1,7 +1,8 @@
 # LLMs and Generative AI
 
 ## To Do
--[ ] LLMs Configuration & In-context learning **(ICL)**
+
+[ ] LLMs Configuration & In-context learning **(ICL)**
 
 -[ ] LLMs Quantization
 
